@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AuthNative</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="minimum_name_valid">Minimal 3 huruf</string>
+    <string name="max_name_valid">Maksimal 50 huruf</string>
+
+    <string name="name">Name</string>
+    <string name="text_validation_success">Validation success</string>
+
+    <string name="text_validation_error_min_name_length">Minimum Name is 3!</string>
+    <string name="text_validation_error_max_name_length">Minimum Name is 50!</string>
+    <string name="text_validation_error_empty_field">Field are Empty!</string>
+    <string name="text_validation_error_email">Format email not valid!</string>
+    <string name="text_validation_error_min_pass_length">Minimum Password is 8!</string>
+    <string name="text_validation_error_max_pass_length">Maximum Password is 12!</string>
+    <string name="text_validation_error_uppercase">Password must have Uppercase!</string>
+    <string name="text_validation_error_lowercase">Password must have Lowercase!</string>
+    <string name="text_validation_error_contain_number">Password must contain Number!</string>
+    <string name="text_validation_error_same_password">Confirm Password must same as Password!</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Not Registered Yet, Please Sign Up!</string>
+
+</resources>
