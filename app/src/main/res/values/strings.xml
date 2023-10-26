@@ -11,7 +11,7 @@
     <string name="text_validation_success">Validation success</string>
 
     <string name="text_validation_error_min_name_length">Minimum Name is 3!</string>
-    <string name="text_validation_error_max_name_length">Minimum Name is 50!</string>
+    <string name="text_validation_error_max_name_length">Maximum Name is 50!</string>
     <string name="text_validation_error_empty_field">Field are Empty!</string>
     <string name="text_validation_error_email">Format email not valid!</string>
     <string name="text_validation_error_min_pass_length">Minimum Password is 8!</string>
@@ -22,5 +22,12 @@
     <string name="text_validation_error_same_password">Confirm Password must same as Password!</string>
     <string name="login">Login</string>
     <string name="not_registered">Not Registered Yet, Please Sign Up!</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="forgot_password_question">Forgot Password?</string>
+
+    <string name="email_verified">Email verified</string>
+    <string name="email_not_verified">Please, verified your email</string>
+    <string name="verification">Verification</string>
+    <string name="sign_out">Sign Out</string>
 
 </resources>

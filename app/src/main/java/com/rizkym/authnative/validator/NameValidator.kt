@@ -6,7 +6,7 @@ import com.rizkym.authnative.validator.base.ValidateResult
 
 class NameValidator(private val name: String) : BaseValidator() {
     private val minNameLength = 3
-    private val maxNameLength = 12
+    private val maxNameLength = 50
 
     override fun validate(): ValidateResult {
         if (name.length < minNameLength)
