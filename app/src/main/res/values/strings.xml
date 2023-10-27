@@ -29,5 +29,7 @@
     <string name="email_not_verified">Please, verified your email</string>
     <string name="verification">Verification</string>
     <string name="sign_out">Sign Out</string>
+    <string name="logo">Logo</string>
+    <string name="icon_login">Icon Login\n</string>
 
 </resources>
